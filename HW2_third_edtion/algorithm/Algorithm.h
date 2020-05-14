@@ -26,12 +26,12 @@
 #include <fstream>
 #include <sstream>
 #include <vector>
-#include "ShipFloor.h"
-#include "ShipRoute.h"
-#include "FileManager2.h"
+#include "../common/ShipFloor.h"
+#include "../common/ShipRoute.h"
+#include "../common/FileManager2.h"
 #include<algorithm>
 #include <tuple>
-#include "Error.h"
+#include "../common/Error.h"
 #include "WeightBalanceCalculator.cpp"
 #include "../interfaces/AbstractAlgorithm.h"
 

@@ -20,6 +20,16 @@
 #include<algorithm>
 #include <tuple>
 #include "../interfaces/AbstractAlgorithm.h"
+#include "../common/Error.h"
+#include "../common/Container.h"
+#include "../common/ContainerId.h"
+#include "../common/SeaportCode.h"
+#include "../common/ShipRoute.h"
+#include "../common/ShipFloor.h"
+
+
+#include "../common/Error.h"
+
 
 #include <sys/types.h>
 #include <sys/stat.h>
