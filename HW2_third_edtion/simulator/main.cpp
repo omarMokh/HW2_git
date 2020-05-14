@@ -4,7 +4,7 @@
 #include <dlfcn.h>
 #include "../interfaces/AbstractAlgorithm.h"
 using namespace std;
-
+//hellow
 struct DLCloser
 {
 	void operator()(void *dlhandle) const noexcept{
